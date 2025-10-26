@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # PM-AJAY Agency Mapping System
 
-A modern, responsive website for mapping and managing implementing and executing agencies across PM-AJAY components. Built for Smart India Hackathon 2024.
+A modern, responsive website for mapping and managing implementing and executing agencies across PM-AJAY components. Built for Smart India Hackathon 2025.
 
 ## 🎯 Features
 
@@ -179,7 +179,8 @@ This project is developed for educational purposes as part of Smart India Hackat
 
 ---
 
-**Built with ❤️ for Smart India Hackathon 2024**
+**Built with ❤️ for Smart India Hackathon 2025**
 =======
 # PM-AJAY
 >>>>>>> 029530f679bdbba405b5a4aa5702587150705bfa
+
